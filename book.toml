@@ -1,0 +1,8 @@
+[book]
+authors = ["Will Duquette"]
+multilingual = false
+src = "src"
+title = "The Endarkening"
+
+[build]
+build-dir = "docs"

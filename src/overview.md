@@ -12,7 +12,7 @@ Players | Will, Dave, Jill
 Round   | 1
 Lens    | Will
 Focus   | Dom Teravich Lytskya, Archbaker of the Bakhlavite Clan
-Player  | Jill
+Player  | Will 
 
 ## Legacies
 

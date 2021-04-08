@@ -15,3 +15,9 @@ The Bakhlavites turn to make a stand against their Corovian oppressors
 at the village of Pognor, where Dom Teravich Lytskya succeeds in baking the
 first Bahklavite war-golem with the aid of clan-members skilled in the
 Five Elements.  Lytskya's rise in the clan dates to this event.
+
+## 1C. Apprenticeship of Tomen Han (Light)
+
+Promising young Tomen Han (son of Flora and Todd) is officially apprenticed to
+Baker Dom Teravich Lytskya, a move that is considered highly controversial in
+light of the young man’s origins. 

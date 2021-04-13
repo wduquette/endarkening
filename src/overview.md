@@ -9,10 +9,10 @@ See the [Log](log.md) for the sequence of events.
 Status  | Description
 ------- | -----------
 Players | Will, Dave, Jill
-Round   | 1
-Lens    | Will
-Focus   | Dom Teravich Lytskya, Archbaker of the Bakhlavite Clan
-Player  | Jill
+Round   | 2
+Lens    | Dave
+Focus   | ???
+Player  | Dave
 Phase   | Legacy
 
 ## Legacies
@@ -21,7 +21,7 @@ Player | Legacy
 ------ | ------
 Will   | --
 Dave   | --
-Jill   | --
+Jill   | War Golems
 
 ## Palette
 

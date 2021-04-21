@@ -11,8 +11,8 @@ Status  | Description
 Players | Will, Dave, Jill
 Round   | 2
 Lens    | Dave
-Focus   | ???
-Player  | Dave
+Focus   | The Hanese Alliance
+Player  | Jill
 Phase   | Legacy
 
 ## Legacies

@@ -12,7 +12,7 @@ Players | Will, Dave, Jill
 Round   | 2
 Lens    | Dave
 Focus   | The Hanese Alliance
-Player  | Jill
+Player  | Will
 Phase   | Legacy
 
 ## Legacies

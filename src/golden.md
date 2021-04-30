@@ -20,3 +20,11 @@ Palace.  He has an aethercrafter make a picture of him standing in front of
 Dom Teravich's statue in  Bakhlavite Square, with the facade of the great Clan
 House in the background.  He spends two weeks in Pognor, all told, and the
 next twenty years boring his neighbors back home in Lesser Stewey.
+
+## 2B. Flight of Fraznath Sooluth (Dark)
+
+Railing against the decadency of the Bahklavite houses and the increasing 
+corruption of Pognorite politics, and after formally objecting to the brutal
+annexation of Klinth, Fraznath Sooluth, 27th Commander of the Pognorite
+Merchant Marine, flees for his life in a patchwork balloon across the Great
+Rift, seeking safety within the borders of the industrious Hanese Alliance.

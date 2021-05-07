@@ -12,3 +12,5 @@ Item      | Pl | Period    | Detail
 2 Focus   | DT | --        | The Hanese Alliance
 2A        | DT | End       | The Hanese Alliance Takes Over the Rare Mud Trade
 2B        | JW | Golden    | Flight of Fraznath Sooluth
+2C        | WD | Start     | Lumen Han crosses the Great Chasm
+2D        | DT | Start     | Origin of the House of Han

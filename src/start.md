@@ -2,6 +2,19 @@
 
 Founding of the Free City of Pognor by members of the Baklahvite Clan.
 
+## 2D. Origin of the House of Han
+
+Darkworld Slavers climb the Great Chasm and begin regular raids into the
+Vales of the North Rim Mountains burning villages and capturing townsfolk
+until pub owner Rudyard Tarvis (known locally as "The Hand" by his serving
+wenches and more than a few disgruntled husbands) organizes construction
+and manning of the Rim Towers to keep watch on the Chasm.  As a result, the
+raids cease.  As his popularity and power grows, Rudyard's many illegitimate
+offspring around the countryside start calling themselves "The People of the
+Hand".  Which after a time was shortened to "The Han".  In later years, those
+few who escaped Darkworld without surname or pedigree would ofttimes take up
+the name Han as well.
+
 ## 1B. Escape of Todd and Flora Han
 
 Todd and Flora Han escape the Darkworld by ascending the Great Chasm in a
@@ -89,3 +102,12 @@ The golem stood, breath filling its chest.
 Promising young Tomen Han (son of Flora and Todd) is officially apprenticed to
 Baker Dom Teravich Lytskya, a move that is considered highly controversial in
 light of the young man’s origins.
+
+## 2C. Lumen Han Crosses the Great Chasm (Light)
+
+Lumen Han, grandson of Tomen Han, makes the first successful trading voyage
+across the Great Chasm to the lands beyond, using a long-distance magical
+airship of his own design.  Captive air elementals provide propulsion and
+lift; water elementals provide potable water; fire elementals provide heat
+for cooking and warmth; earth elementals provide anchorage.   His success is
+the foundation of the mercantile House of Han.

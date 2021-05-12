@@ -9,17 +9,17 @@ See the [Log](log.md) for the sequence of events.
 Status  | Description
 ------- | -----------
 Players | Will, Dave, Jill
-Round   | 2
-Lens    | Dave
-Focus   | The Hanese Alliance
+Round   | 3
+Lens    | Jill
+Focus   | Aetheric Magic
 Player  | Will
-Phase   | Legacy
+Phase   | Main
 
 ## Legacies
 
 Player | Legacy
 ------ | ------
-Will   | --
+Will   | Rare Mud
 Dave   | --
 Jill   | War Golems
 

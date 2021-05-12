@@ -103,6 +103,15 @@ Promising young Tomen Han (son of Flora and Todd) is officially apprenticed to
 Baker Dom Teravich Lytskya, a move that is considered highly controversial in
 light of the young man’s origins.
 
+## 2E. Discovery of Rare Mud (Dark)
+
+A rare mud is discovered in the Darkworld, a mud that is especially amenable
+to aetheric manipulation.  The Darkworlders use it to build massive climbing
+golems, each capable of transporting an entire company of troops up the chasm
+side in less than a day.  The increased rate of attacks leads to the
+depopulation of Corovia, ending the Corovian threat but bringing new perils to
+the lands past the North Rim.
+
 ## 2C. Lumen Han Crosses the Great Chasm (Light)
 
 Lumen Han, grandson of Tomen Han, makes the first successful trading voyage
